@@ -1,4 +1,4 @@
-# GreenThumb
+1# GreenThumb
 4BHITS Jahren Projekt- Benedikt Bliem/David Unterberger/Georg Schönerer
 # Basic Idea
 ## Green house Simulator with Seasons and selling  
@@ -52,3 +52,26 @@ Global-Weather-Dataset/
 └── LICENSE
 
 ```
+
+
+# GreenThumb – Technical Agro-Climatic & Weather Simulation Engine
+
+## Project Overview
+A data-driven greenhouse and open-field simulation engine focusing on regional climate impact, thermodynamic balance, and dynamic crop yield modeling using real-world historical weather data (2010–2026).
+
+## Core Architecture
+1. Weather Data Pipeline (ETL)
+   - Ingestion of multi-region weather datasets (Beijing, London, Phoenix, etc.)
+   - Time-series playback & acceleration (Temperature, Solar Radiation, Humidity, Precipitation)
+
+2. Microclimate & Soil Physics Engine
+   - Heat transfer & greenhouse energy balance calculation
+   - Soil moisture dynamics & nutrient (NPK/pH) depletion algorithms
+
+3. Crop Physiology Model
+   - GDD-based growth modeling
+   - Yield prediction under environmental stress vectors (frost, drought, nutrient deficiency)
+
+4. Control Systems & Analytics
+   - Automated climate control (HVAC, irrigation, shading)
+   - Real-time telemetry dashboard & scenario comparative analysis
