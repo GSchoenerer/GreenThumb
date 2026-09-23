@@ -1,12 +1,11 @@
 # GreenThumb
 4BHITS Jahren Projekt- Benedikt Bliem/David Unterberger/Georg Schönerer
 # Basic Idea
-## Green house Simulator with Seasons and selling  
+### Green house Simulator with Seasons and selling  
 - **Core Loop:** 
 	- Purchase seeds -> balance soil/climate -> harvest -> fulfill direct or wholesale orders -> reinvest profit
 - **Platform Focus:**
-	- PC/Tablet base physics engine
-	- reserving VR for tactile minigames (pH calibration, pruning, stacking)
+	- PC
 - **Environment Strategy:** 
 	- Open field (low capital, high weather/pest risk, bulk crops)
 	- Greenhouse (high setup/heating costs year-round high-value crops)
@@ -16,10 +15,9 @@
 - **Sales Channels:** 
 	- Direct farm stand (high margin, low volume)
 	- Wholesale semi-truck shipping (low margin, strict volume/deadline penalties)
-- **Interactive Minigames:** 
+- **Desicions:** 
 	- Soil NPK/pH balancing
 	- pest control choices (cheap chemical vs. organic tag)
-	- produce quality sorting
 - **Business Simulation:** 
 	- Managing cash flow
 	- equipment degradation
@@ -52,3 +50,9 @@ Global-Weather-Dataset/
 └── LICENSE
 
 ```
+
+# Target Audience
+
+People who are trying to learn about agroculture and how different environments affect plants and their price. But who also have a Technical understanding on how to read Data Dashboards.
+They should also understand how different environments and economical variations affect how crops sell sell and grow. The User needs a base Understanding on how different factors affect plants and their value.
+
