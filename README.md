@@ -56,3 +56,5 @@ Global-Weather-Dataset/
 People who are trying to learn about agroculture and how different environments affect plants and their price. But who also have a Technical understanding on how to read Data Dashboards.
 They should also understand how different environments and economical variations affect how crops sell sell and grow. The User needs a base Understanding on how different factors affect plants and their value.
 
+The target audience is able to deepen their understanding on how environmental and economical factors are responsible for what crops can be planted where and for how much profit they can be sold. It should also help them vizualise how the different external costs (equipment, seeds, water, heating) affect the value of crops.
+
